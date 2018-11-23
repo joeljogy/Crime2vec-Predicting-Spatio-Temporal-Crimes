@@ -1,4 +1,4 @@
-# Crime2vec
+# Crime2vec: Predicting Spatio Temporal Crimes
 Increasing the number of crimes necessitates a strong preventive plan, which needs to be taken by police practitioners. Researchers will help police practitioners to assess the location and time for the next crime benefiting from historical data sets and advanced machine learning algorithms. The spatial and time analysis of crime combined with community problems may inform the police operations by disclosing where the main resources should be effectively deployed. 
 
 Crime data from San Francisco Police Dept. was first converted into vector representation space and with the help of word2vec, we use it to predict future crimes. In the suggested Crime2Vec model, we represent the point of time as word and the location as context. Also, we deal with the whole crimes during the year as text corpus.
