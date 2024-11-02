@@ -1,27 +1,27 @@
 ## The Team
 
-| Unity ID | Name               |
-| -------- | ------------------ |
-| akiran2  | Adithya Kiran      |
-| avisala  | Amrita Visalam     |
-| dmaurya  | Diksha Maurya      |
-| nsjoji   | Nirmal Sharon Joji |
+| Unity ID | Name                        |
+| -------- | --------------------------- |
+| ggopala4  | Girish GN                  |
+| jjgeorg2  | Joel Jogy George           |
+| pvasire2  | Pravallika Vasireddy       |
+
 
 ## Part I: Scorecards
 
 ### **Delta Evidence:** https://github.com/adi-kiran/career-flow/blob/main/Updates.md
 
-### **Repo Link:** https://github.com/adi-kiran/career-flow
+### **Repo Link:** [https://github.com/se2024-jpg/WolfTrack6.0](https://github.com/se2024-jpg/WolfTrack6.0)
 **Total Score:** 87/87
 
 | Notes                                                                                                                                                                                     | Score | Evidence/Comments/Links                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Video                                                                                                                                                                                     |  3     |   Ref: https://www.youtube.com/watch?v=gbYjQL3l5Eg                                                                                                                                                                                                                                                                                                                    |
-| Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot) |   3    | Commits by everyone:  ![Screenshot 2023-11-27 at 10 24 31 PM](https://github.com/sharonjoji99/SE_Proj_2023/assets/40449660/583d9604-fd29-4b5b-8eb1-f3a3c34da057) |
+| Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot) |   3    | Commits by everyone:  https://github.com/se2024-jpg/WolfTrack6.0/pulse |
 | Number of commits                                                                                                                                                                         |   3    | Yes. 157. Ref: https://github.com/sachindoddaguni/application-tracking-system/compare/main...adi-kiran:career-flow:main?expand=1                                                                                                                                                                                                                                                                                                          |
-| Number of commits: by different people                                                                                                                                                    |  3    |   Yes. Ref: https://github.com/adi-kiran/career-flow/graphs/contributors?from=2023-09-18&to=2023-11-27&type=c (Mentioned in above screenshot) |
-| Issues reports: there are many                                                                                                                                                            |  3     |   Yes. Total:37 Open: 16. Ref: https://github.com/adi-kiran/career-flow/issues                                                                                    |
-| Issues are being closed                                                                                                                                                                   |  3   |   Yes. 21 closed. https://github.com/adi-kiran/career-flow/issues?q=is%3Aissue+is%3Aclosed                                                                             |
+| Number of commits: by different people                                                                                                                                                    |  3    |   Yes.  181 commits Ref: https://github.com/se2024-jpg/WolfTrack6.0/pulse |
+| Issues reports: there are many                                                                                                                                                            |  3     |   Yes. Total:16 Open: 4. Ref: https://github.com/se2024-jpg/WolfTrack6.0/issues                                                                                    |
+| Issues are being closed                                                                                                                                                                   |  3   |   Yes. 12 closed. https://github.com/se2024-jpg/WolfTrack6.0/issues?q=is%3Aissue+is%3Aclosed                                                                             |
 | DOI badge: exists                                                                                                                                                                         | 3     | DOI badge present in the readme. Points to the zenodo backup of the repository. Ref: [https://zenodo.org/doi/10.5281/zenodo.10158208](https://zenodo.org/doi/10.5281/zenodo.10158208)                                                                                                                                                       |
 | Docs: doco generated, format not ugly                                                                                                                                                     | 3     | Documentation generated with pydoc3 [https://adi-kiran.github.io/career-flow/](https://adi-kiran.github.io/career-flow/)                                                                                                                                                                                              |
 | Docs: what: point descriptions of each class/function (in isolation)                                                                                                                      | 3     | Documentation generated with pydoc3 [https://adi-kiran.github.io/career-flow/](https://adi-kiran.github.io/career-flow/)                                                                                                                                                                                              |
